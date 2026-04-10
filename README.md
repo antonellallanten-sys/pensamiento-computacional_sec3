@@ -18,4 +18,5 @@ Para resolver de alguna manera el tema de las medidas fui tanteando entre numero
 Tuve que tener mucha paciencia en este trabajo ya que me equivoque muchas veces, al igual que tuve que organizar lo que iba primero, despues, etc. Mejore mi forma de escribir codigo y organizacion con mi trabajo , al igual que desarrolle una mejor observacion y atencion a lo que estoy creando.
 
 ![una imagen](https://static.arteinformado.com/resources/app/docs/evento/38/104738/2.jpg)
-![una imagen]
+![una imagen](<img width="564" height="765" alt="image" src="https://github.com/user-attachments/assets/9a279ad0-5a41-47fb-af21-0651ef794b3c" />)
+
