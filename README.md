@@ -24,6 +24,10 @@ Para resolver de alguna manera el tema de las medidas fui tanteando entre numero
 ## Reflexión y opiniones
 Tuve que tener mucha paciencia en este trabajo ya que me equivoque muchas veces, al igual que tuve que organizar lo que iba primero, despues, etc. Mejore mi forma de escribir codigo y organizacion con mi trabajo , al igual que desarrolle una mejor observacion y atencion a lo que estoy creando.
 
+## LINK
+
+https://editor.p5js.org/antonella.llanten/sketches/NfqKeDPCI
+
 ![una imagen](https://static.arteinformado.com/resources/app/docs/evento/38/104738/2.jpg)
 ![una imagen](imagenes/IMG_5891.png)
 
