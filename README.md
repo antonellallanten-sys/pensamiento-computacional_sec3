@@ -13,16 +13,16 @@ ejercicios y entregas curso pensamiento computacional
 - 
 ## ¿Por qué elegí esta obra?
 
-Elegi esta obra porque me gustaron sus colores y formas rectangulares , aparte de que tiene muchas figuras de distintos tamaños que aumentaron su complejidad de recreacion.
+Elegí esta obra porque me gustaron sus colores y formas rectangulares , aparte de que tiene muchas figuras de distintos tamaños que aumentaron su complejidad de recreación.
 
 ## Coordenadas
-Para ver las coordenadas puse la imagen en CANVA junto con ILLUSTRATOR y con las herramientas de medicion fui sacando X e Y , sin embargo, fue bastante complicada esta interaccion.
+Para ver las coordenadas puse la imagen en CANVA junto con ILLUSTRATOR y con las herramientas de medición fui sacando X e Y , sin embargo, fue bastante complicada esta interacción.
 
 ## Como resolví
-Para resolver de alguna manera el tema de las medidas fui tanteando entre numeros cercanos como 140, 145, 150.. etc para que me calzaran la mayoria de las figuras.
+Para resolver de alguna manera el tema de las medidas fui tanteando entre numeros cercanos como 140, 145, 150.. etc para que me calzaran la mayoría de las figuras.
 
 ## Reflexión y opiniones
-Tuve que tener mucha paciencia en este trabajo ya que me equivoque muchas veces, al igual que tuve que organizar lo que iba primero, despues, etc. Mejore mi forma de escribir codigo y organizacion con mi trabajo , al igual que desarrolle una mejor observacion y atencion a lo que estoy creando.
+Tuve que tener mucha paciencia en este trabajo ya que me equivoque muchas veces, al igual que tuve que organizar lo que iba primero, después, etc. Mejoré mi forma de escribir código y organización con mi trabajo , al igual que desarrollé una mejor observación y atención a lo que estoy creando.
 
 ## LINK
 
